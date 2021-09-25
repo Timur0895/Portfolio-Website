@@ -16,7 +16,9 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>Придумать описание</SectionText>
-      <Button onClick={() => (window.location = "https://www.google.com/")}>
+      <Button
+        onClick={() => (window.location = "https://github.com/Timur0895")}
+      >
         Learn More
       </Button>
     </LeftSection>
