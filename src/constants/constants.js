@@ -43,7 +43,7 @@ export const projects = [
     title: "Budget-App",
     description:
       "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: "/images/4.jpg",
+    image: "/images/5.png",
     tags: ["Javascript", "ООП", "First"],
     source: "https://github.com/Timur0895/Budget-app",
     visit: "https://simple-budget-app-js.netlify.app/",
