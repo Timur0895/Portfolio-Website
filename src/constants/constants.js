@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Crud-Laravel",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "Simple CRUD operations using Laravel. You can create, edit, update, delete. This is most popular functionality using in Admin Panel, so i decided to create a small demo version of this operations",
     image: "/images/1.jpg",
     tags: ["Laravel", "MySQL", "CRUD"],
     source: "https://github.com/Timur0895/CRUD-Laravel",
@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Realtime-Chat-App",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "Live Chat Used JS and PHP Registration in the database, the entrance will also be checked in the database for the presence of the user. In the dialog window, I have a working search panel for Users in the database, as well as displaying the user's status (online, offline, etc.). In the chat window, a panel for sending messages, displaying the history of messages sorted from the latest, also a link to the profile (own and user). In the profile window, only the profile picture and information about the name and date of registration are visible. In your profile window, you can see the same thing only with the ability to add or update the status and avatar.",
     image: "/images/2.jpg",
     tags: ["PHP", "JavaScript", "API"],
     source: "https://github.com/Timur0895/Realtime-Chat-App",
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "PHP-Food-Restoran",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "A working PHP panel for site review and creating an order from a client, a working search panel by category and food name Admin panel in pure PHP without the use of libraries and frameworks creation of several administrators Displaying order statuses, users, food and all this works in real time using PHP and MySql queries.",
     image: "/images/3.jpg",
     tags: ["PHP", "Admin", "MySQL"],
     source: "https://github.com/Timur0895/PHP-Food-Restoran",
@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "Tetris on JS",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+      "The most popular game on the console. Created in JS using OOP. The maximum emphasis was on classes and functionality. The wrapper is exceptionally simple to look at.",
     image: "/images/4.jpg",
     tags: ["Javascript", "ООП"],
     source: "https://github.com/Timur0895/Tetris",
@@ -42,7 +42,7 @@ export const projects = [
   {
     title: "Budget-App",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+      "Small budget calculator website, very simple JavaScript using CSS & HTML",
     image: "/images/5.png",
     tags: ["Javascript", "ООП", "First"],
     source: "https://github.com/Timur0895/Budget-app",
@@ -52,7 +52,7 @@ export const projects = [
   {
     title: "Covid-19 Tracker",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+      "In this video, we will create a COVID-19 Tracker/Stats Application. We're going to use React with the addition of Charts.js, Material UI, and many different modules. Corona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data. The data is fetched from the API and we'll create cards displaying the statistics as well as Charts. This project/application is created using the most modern JavaScript syntax. Along the way, you'll learn how to use Material UI, Charts.js, React Hooks, API data fetching, all of it in React JS! The project is going to fetch the live data from the API using Async/Await syntax. In this video, we also use React Hooks! By the end of this video, you will have a strong understanding of React's workflow; including data fetching, hooks, folder structure, and more.",
     image: "/images/6.png",
     tags: ["Javascript", "React", "API"],
     source: "https://github.com/Timur0895/Covid-19Tracker",
