@@ -24,7 +24,7 @@ const Hero = () => (
       <Button
         onClick={() => (window.location = "https://github.com/Timur0895")}
       >
-        Learn More
+        Узнать больше
       </Button>
     </LeftSection>
   </Section>
